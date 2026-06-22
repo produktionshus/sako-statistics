@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Sikkerhed
+pat.txt
+*.pem
+.env
+
+# Erstattet af Sako.webp
+Sako.png
+
+# Gammel GitHub Actions konfiguration (fjernes til fordel for Cowork-flow)
+.github/
+
+# Demo arkiv-filer (placeholders fra Cowork-testen)
+docs/arkiv/Driftsrapport_2025-*
+docs/arkiv/Driftsrapport_2026-03-*
+docs/arkiv/Driftsrapport_2026-04-*
+docs/arkiv/Driftsrapport_2026-05-*
+docs/arkiv/Driftsrapport_2026-06-08*
