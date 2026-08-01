@@ -1,6 +1,6 @@
 {
-  "today": "2026-07-15",
-  "iso_week_now": 29,
+  "today": "2026-08-01",
+  "iso_week_now": 31,
   "last_complete_week": {
     "label": "U28",
     "wk": 28,
@@ -9,20 +9,6 @@
     "avg": 12.6
   },
   "last_8_weeks": [
-    {
-      "label": "U21",
-      "wk": 21,
-      "total": 85,
-      "open": 5,
-      "avg": 17.0
-    },
-    {
-      "label": "U22",
-      "wk": 22,
-      "total": 74,
-      "open": 4,
-      "avg": 18.5
-    },
     {
       "label": "U23",
       "wk": 23,
@@ -66,9 +52,9 @@
       "avg": 12.6
     }
   ],
-  "yoy_diff_pct": -4.4,
-  "common_avg_26": 15.8,
-  "common_avg_25": 16.5,
+  "yoy_diff_pct": -2.4,
+  "common_avg_26": 15.7,
+  "common_avg_25": 16.1,
   "biggest_yoy_swing_up": {
     "label": "U16",
     "wk": 16,
@@ -84,7 +70,7 @@
   "top_dogs_2026": [
     {
       "name": "Empi",
-      "visits": 87
+      "visits": 88
     },
     {
       "name": "Charlie B",
@@ -112,7 +98,7 @@
     },
     {
       "name": "Mervin",
-      "visits": 50
+      "visits": 51
     },
     {
       "name": "Otto C",
@@ -126,47 +112,46 @@
   "top_dogs_2025": [
     {
       "name": "Viggo L",
-      "visits": 180
-    },
-    {
-      "name": "Empi",
-      "visits": 174
-    },
-    {
-      "name": "Melvin",
-      "visits": 164
-    },
-    {
-      "name": "Diesel",
-      "visits": 150
+      "visits": 70
     },
     {
       "name": "Svante",
-      "visits": 122
+      "visits": 64
+    },
+    {
+      "name": "Empi",
+      "visits": 61
+    },
+    {
+      "name": "Diesel",
+      "visits": 60
+    },
+    {
+      "name": "Oakley",
+      "visits": 50
     },
     {
       "name": "Noggi",
-      "visits": 117
-    },
-    {
-      "name": "Oda K",
-      "visits": 102
-    },
-    {
-      "name": "Viktor",
-      "visits": 96
-    },
-    {
-      "name": "Bertram",
-      "visits": 89
+      "visits": 42
     },
     {
       "name": "Luxus",
-      "visits": 86
+      "visits": 35
+    },
+    {
+      "name": "Sally",
+      "visits": 33
+    },
+    {
+      "name": "Oda K",
+      "visits": 32
+    },
+    {
+      "name": "Wim",
+      "visits": 31
     }
   ],
   "common_top_dogs": [
-    "Bertram",
     "Diesel",
     "Empi",
     "Noggi",
@@ -175,11 +160,13 @@
   ],
   "lost_top_dogs": [
     "Luxus",
-    "Melvin",
+    "Oakley",
+    "Sally",
     "Svante",
-    "Viktor"
+    "Wim"
   ],
   "new_top_dogs": [
+    "Bertram",
     "Charlie B",
     "Frida",
     "Mervin",
@@ -217,27 +204,27 @@
     {
       "month": 5,
       "name": "Maj",
-      "t2025": 372,
+      "t2025": 20,
       "t2026": 325,
       "perday_2026": 17.1
     },
     {
       "month": 6,
       "name": "Jun",
-      "t2025": 342,
+      "t2025": 0,
       "t2026": 348,
       "perday_2026": 15.8
     },
     {
       "month": 7,
       "name": "Jul",
-      "t2025": 184,
-      "t2026": 98,
-      "perday_2026": 12.2
+      "t2025": 0,
+      "t2026": 104,
+      "perday_2026": 11.6
     }
   ],
   "sako_rank": 16,
   "sako_count": 41,
-  "total_open_26": 130,
-  "archive_filename": "Driftsrapport_2026-07-15_uge28.html"
+  "total_open_26": 131,
+  "archive_filename": "Driftsrapport_2026-08-01_uge28.html"
 }
