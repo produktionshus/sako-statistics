@@ -1,28 +1,14 @@
 {
-  "today": "2026-08-01",
-  "iso_week_now": 31,
+  "today": "2026-08-15",
+  "iso_week_now": 33,
   "last_complete_week": {
-    "label": "U28",
-    "wk": 28,
-    "total": 63,
+    "label": "U31",
+    "wk": 31,
+    "total": 47,
     "open": 5,
-    "avg": 12.6
+    "avg": 9.4
   },
   "last_8_weeks": [
-    {
-      "label": "U23",
-      "wk": 23,
-      "total": 91,
-      "open": 5,
-      "avg": 18.2
-    },
-    {
-      "label": "U24",
-      "wk": 24,
-      "total": 92,
-      "open": 5,
-      "avg": 18.4
-    },
     {
       "label": "U25",
       "wk": 25,
@@ -40,21 +26,28 @@
     {
       "label": "U27",
       "wk": 27,
-      "total": 61,
-      "open": 5,
-      "avg": 12.2
+      "total": 93,
+      "open": 8,
+      "avg": 11.6
     },
     {
       "label": "U28",
       "wk": 28,
-      "total": 63,
+      "total": 86,
+      "open": 7,
+      "avg": 12.3
+    },
+    {
+      "label": "U31",
+      "wk": 31,
+      "total": 47,
       "open": 5,
-      "avg": 12.6
+      "avg": 9.4
     }
   ],
-  "yoy_diff_pct": -2.4,
-  "common_avg_26": 15.7,
-  "common_avg_25": 16.1,
+  "yoy_diff_pct": -5.7,
+  "common_avg_26": 15.5,
+  "common_avg_25": 16.4,
   "biggest_yoy_swing_up": {
     "label": "U16",
     "wk": 16,
@@ -62,34 +55,42 @@
     "v2026": 16.2
   },
   "biggest_yoy_swing_down": {
-    "label": "U14",
-    "wk": 14,
-    "v2025": 18.8,
-    "v2026": 13.7
+    "label": "U31",
+    "wk": 31,
+    "v2025": 14.8,
+    "v2026": 9.4
   },
   "top_dogs_2026": [
     {
       "name": "Empi",
-      "visits": 88
+      "visits": 99
+    },
+    {
+      "name": "Viggo L",
+      "visits": 90
     },
     {
       "name": "Charlie B",
       "visits": 85
     },
     {
-      "name": "Viggo L",
-      "visits": 85
+      "name": "Bertram",
+      "visits": 67
     },
     {
       "name": "Diesel",
-      "visits": 59
+      "visits": 64
     },
     {
-      "name": "Bertram",
-      "visits": 58
+      "name": "Mervin",
+      "visits": 61
     },
     {
       "name": "Oda K",
+      "visits": 59
+    },
+    {
+      "name": "Otto C",
       "visits": 55
     },
     {
@@ -97,61 +98,54 @@
       "visits": 54
     },
     {
-      "name": "Mervin",
-      "visits": 51
-    },
-    {
-      "name": "Otto C",
-      "visits": 49
-    },
-    {
       "name": "Frida",
-      "visits": 46
+      "visits": 52
     }
   ],
   "top_dogs_2025": [
     {
       "name": "Viggo L",
-      "visits": 70
-    },
-    {
-      "name": "Svante",
-      "visits": 64
+      "visits": 180
     },
     {
       "name": "Empi",
-      "visits": 61
+      "visits": 174
+    },
+    {
+      "name": "Melvin",
+      "visits": 164
     },
     {
       "name": "Diesel",
-      "visits": 60
+      "visits": 150
     },
     {
-      "name": "Oakley",
-      "visits": 50
+      "name": "Svante",
+      "visits": 122
     },
     {
       "name": "Noggi",
-      "visits": 42
-    },
-    {
-      "name": "Luxus",
-      "visits": 35
-    },
-    {
-      "name": "Sally",
-      "visits": 33
+      "visits": 117
     },
     {
       "name": "Oda K",
-      "visits": 32
+      "visits": 102
     },
     {
-      "name": "Wim",
-      "visits": 31
+      "name": "Viktor",
+      "visits": 96
+    },
+    {
+      "name": "Bertram",
+      "visits": 89
+    },
+    {
+      "name": "Luxus",
+      "visits": 86
     }
   ],
   "common_top_dogs": [
+    "Bertram",
     "Diesel",
     "Empi",
     "Noggi",
@@ -160,13 +154,11 @@
   ],
   "lost_top_dogs": [
     "Luxus",
-    "Oakley",
-    "Sally",
+    "Melvin",
     "Svante",
-    "Wim"
+    "Viktor"
   ],
   "new_top_dogs": [
-    "Bertram",
     "Charlie B",
     "Frida",
     "Mervin",
@@ -204,27 +196,34 @@
     {
       "month": 5,
       "name": "Maj",
-      "t2025": 20,
+      "t2025": 372,
       "t2026": 325,
       "perday_2026": 17.1
     },
     {
       "month": 6,
       "name": "Jun",
-      "t2025": 0,
+      "t2025": 342,
       "t2026": 348,
       "perday_2026": 15.8
     },
     {
       "month": 7,
       "name": "Jul",
-      "t2025": 0,
-      "t2026": 104,
-      "perday_2026": 11.6
+      "t2025": 184,
+      "t2026": 200,
+      "perday_2026": 11.1
+    },
+    {
+      "month": 8,
+      "name": "Aug",
+      "t2025": 367,
+      "t2026": 66,
+      "perday_2026": 13.2
     }
   ],
-  "sako_rank": 16,
-  "sako_count": 41,
-  "total_open_26": 131,
-  "archive_filename": "Driftsrapport_2026-08-01_uge28.html"
+  "sako_rank": 15,
+  "sako_count": 44,
+  "total_open_26": 145,
+  "archive_filename": "Driftsrapport_2026-08-15_uge31.html"
 }
